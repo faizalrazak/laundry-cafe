@@ -113,10 +113,9 @@ public class LaundryFragment extends Fragment {
 
         Context context;
         private final List<JSONObject> jsonArray = new ArrayList<>();
+
         public ContentAdapter(Context context) {
             this.context= context;
-
-
         }
 
         @Override

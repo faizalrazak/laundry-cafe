@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Laundry Cafe</string>
-    <string name = "services">First</string>
+    <string name="services">First</string>
     <string name="description">this is first</string>
     <string name="moredescription">first is first</string>
+    <string name="title_activity_customer_location">Map</string>
 </resources>
